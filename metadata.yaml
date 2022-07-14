@@ -1,0 +1,44 @@
+_repo: Argonaut-stories_68408
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Hart, Jerome
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '54761'
+    url: http://www.gutenberg.org/2009/agents/54761
+description: ''
+gutenberg_issued: '2022-06-26'
+identifiers:
+  gutenberg: '68408'
+  lccn: '06045361'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101072899535
+pgterms:marc905: 20220304190343hart
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Payot, Upham & Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Moon-face, by Jack London -- A caged lion, by Frank Norris -- The
+  race bond, by Gwendolen Overton -- The Rajah's nemesis, by William C. Morrow --
+  The man-hunters' reward, by Buckey O'Neill -- Conscience money, by Geraldine Bonner
+  -- The jack-pot, by Charles Dwight Willard -- The seats of judgment, by C.W. Doyle
+  -- A double shot, by Stewart Edward White -- Ten thousand years in ice, by Robert
+  Duncan Milne -- Leaves on the River Pasig, by W.O. McGeehan -- The great Euchre
+  boom, by Charles F. Embree -- The sorcery of Asenath, by Maria Roberts -- Old "Hard
+  Luck", by E. Munson -- The dotted trail, by Will H. Irwin -- The white grave, by
+  C. Alfred -- The jewels of Bendita, by Gibert Cunyngham Terry -- The Man-Dog, by
+  Nathan C. Kouns -- The amateur revolutionist, by John F. Wilson -- The blood of
+  a comrade, by Neil Gillespie -- Under flying hoofs, by Bertrand W. Sinclair -- The
+  Colonel and "The Lady", by Kathleen Thompson.
+title: Argonaut stories
+url: http://www.gutenberg.org/ebooks/68408
